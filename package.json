@@ -6,9 +6,13 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.2",
+    "aos": "^2.3.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-parallax-tilt": "^1.4.89",
+    "react-reveal": "^1.2.2",
     "react-scripts": "4.0.3",
+    "react-spring": "^8.0.27",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
